@@ -4,7 +4,7 @@ clc;
 % mass= 200.59*1.66053904e-27;
 % u = mass/2;%reduced mass
 % beta20=sqrt(8*3.141592653^2*3e8*0.4250*u/(6.626070040e-34)); 
-% %unit: (sqrt(m*s-1*cm-1*kg/(kg·m2/s2*s))=sqrt(cm^-1*m^-1)=cm^-1*0.1
+% %unit: (sqrt(m*s-1*cm-1*kg/(kgÂ·m2/s2*s))=sqrt(cm^-1*m^-1)=cm^-1*0.1
 % beta2=beta20*10;
 % in the order of X D A
 De = [379.5  8229.3 1.279874558896620e+04]; %cm^-1
