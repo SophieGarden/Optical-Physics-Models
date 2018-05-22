@@ -1,2 +1,0 @@
-%Hg trimer
-
