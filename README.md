@@ -11,4 +11,4 @@ Simulation/computation models created for optical physics research with Matlab: 
 \
 (5) Labview, Matlab and Arduino programs to control spectrometers, lasers, oscilloscopes, photomultiplier tubes (PMT), photodiodes, energy meters etc... are also included in HardwareControl foler\
 \
-* most of the files names contain my first English name Wendy ^^
+(6) most of the files names contain my first English name Wendy ^^
