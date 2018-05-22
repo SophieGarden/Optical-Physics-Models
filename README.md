@@ -9,6 +9,6 @@ Simulation/computation models created for optical physics research with Matlab: 
 \
 (4) Decay rates fitting / learning of several molecules: ScI, YI, Hg2, Hg3\
 \
-(5) Labview, Matlab and Arduino programs to control spectrometers, lasers, oscilloscopes, photomultiplier tubes (PMT), photodiodes, energy meters etc... are also included in HardwareControl foler\
+(5) Labview, Matlab and Arduino programs to control spectrometers, lasers, oscilloscopes, photomultiplier tubes (PMT), photodiodes, energy meters etc... are also included in HardwareControl folder\
 \
 (6) most of the files names contain my first English name Wendy ^^
