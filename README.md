@@ -8,3 +8,6 @@ Simulation/computation models created for optical physics research with Matlab: 
 (3) Constructed a comprehensive quantum mechanical simulations of the photoassociation spectrum of the B ← X transition of XeI with a developed detailed potential description of the X state, including V-R coupled energy structure, achieving improved spectroscopic constants for B and X states\
 \
 (4) Decay rates fitting / learning of several molecules: ScI, YI, Hg2, Hg3
+
+
+* most of the files names contain my first English name Wendy ^^
