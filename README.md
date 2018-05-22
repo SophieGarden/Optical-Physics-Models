@@ -1,5 +1,5 @@
 # Physics-Models
-Simulation/computation models created for optical physics research with Matlab:\
+Computational and Theoretical models created for optical physics research with Matlab:\
 \
 (1) Predicted temeprate effects on Er-Yb co-doped high-power fiber lasers based on rate equations including energy exchange between Er and Yb states\
 \
